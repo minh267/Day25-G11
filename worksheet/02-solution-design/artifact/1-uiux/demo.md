@@ -31,7 +31,12 @@ Demo minh họa cách giao diện giảm rủi ro T-01: AI không được tự 
 │                                              │
 │ Vui lòng xác nhận trước khi lưu vào báo cáo. │
 │                                              │
+<<<<<<< HEAD
 │ [Lưu 188.000đ] [Sửa số tiền] [Xem ảnh gốc]   │
+=======
+│ [Xem checklist an toàn] [Nói chuyện vởi      |
+|                              tổng đài]       |
+>>>>>>> 50f471e7e1cf1d8754e25c8c5f90a2cd328f0eae
 └──────────────────────────────────────────────┘
 ```
 
