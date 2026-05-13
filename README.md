@@ -1,4 +1,4 @@
-# Day 25 — Chủ đề [Track 4]: [Trợ lý ghi chú và tổng hợp chi tiêu]
+# Day 25 — Chủ đề Track 4: Trợ lý ghi chú và tổng hợp chi tiêu
 
 ## Thành viên nhóm
 
